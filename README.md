@@ -4,5 +4,5 @@ The wrapper launches radmin.exe with an argument '/connection:host' and fills th
 
 Written in C#
 
-Compiled files are available by url:
+Compiled files:
 https://drive.google.com/open?id=1CqTTR7k8jW43EFZWTmoQYaZyhWwk_0lD
